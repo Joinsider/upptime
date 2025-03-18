@@ -7,13 +7,13 @@ sites:
     url: https://mail.fampopprol.me
   - name: Counter Database
     url: https://ledschendlich-pb.fampopprol.me
-  - name: Ledschendlich Counter
-    url: https://letschendlich.website
     expectedStatusCodes:
      - 200
      - 201
      - 400
      - 404
+  - name: Ledschendlich Counter
+    url: https://letschendlich.website
   - name: Bitwarden
     url: https://bitwarden.fampopprol.me
 

@@ -9,6 +9,11 @@ sites:
     url: https://ledschendlich-pb.fampopprol.me
   - name: Ledschendlich Counter
     url: https://letschendlich.website
+    expectedStatusCodes:
+     - 200
+     - 201
+     - 400
+     - 404
   - name: Bitwarden
     url: https://bitwarden.fampopprol.me
 

@@ -5,6 +5,8 @@ repo: upptime # The name of this repository
 sites:
   - name: Mail Server
     url: https://mail.fampopprol.me
+  - name: Mailcow Backup Server
+    url: https://mailbak.fampopprol.me
   - name: Counter Database
     url: https://ledschendlich-pb.fampopprol.me
     expectedStatusCodes:

@@ -30,12 +30,12 @@
     "url": "https://mailbak.fampopprol.me",
     "icon": "https://icons.duckduckgo.com/ip3/mailbak.fampopprol.me.ico",
     "slug": "mailcow-backup-server",
-    "status": "up",
-    "uptime": "94.82%",
-    "uptimeDay": "92.32%",
-    "uptimeWeek": "94.82%",
-    "uptimeMonth": "94.82%",
-    "uptimeYear": "94.82%",
+    "status": "down",
+    "uptime": "95.19%",
+    "uptimeDay": "92.31%",
+    "uptimeWeek": "95.19%",
+    "uptimeMonth": "95.19%",
+    "uptimeYear": "95.19%",
     "time": 1162,
     "timeDay": 498,
     "timeWeek": 1162,
@@ -92,18 +92,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/bitwarden.fampopprol.me.ico",
     "slug": "bitwarden",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.30%",
+    "uptimeDay": "80.09%",
+    "uptimeWeek": "97.16%",
+    "uptimeMonth": "99.30%",
+    "uptimeYear": "99.30%",
     "time": 506,
     "timeDay": 507,
     "timeWeek": 476,
     "timeMonth": 506,
     "timeYear": 506,
     "dailyMinutesDown": {
-      "2025-04-16": 0
+      "2025-04-16": 287
     }
   }
 ]

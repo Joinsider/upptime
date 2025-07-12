@@ -79,7 +79,7 @@
     "url": "https://letschendlich.website",
     "icon": "https://icons.duckduckgo.com/ip3/letschendlich.website.ico",
     "slug": "ledschendlich-counter",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -90,7 +90,9 @@
     "timeWeek": 362,
     "timeMonth": 230,
     "timeYear": 667,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-12": 0
+    }
   },
   {
     "name": "Bitwarden",
@@ -98,11 +100,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/bitwarden.fampopprol.me.ico",
     "slug": "bitwarden",
     "status": "up",
-    "uptime": "98.31%",
+    "uptime": "98.32%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.52%",
     "uptimeMonth": "99.73%",
-    "uptimeYear": "98.31%",
+    "uptimeYear": "98.32%",
     "time": 475,
     "timeDay": 318,
     "timeWeek": 493,

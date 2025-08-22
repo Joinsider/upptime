@@ -14,6 +14,8 @@ sites:
      - 201
      - 400
      - 404
+  - name: Mailcow new Backup Server
+    url: https://backup-mail.fampopprol.me
   - name: Ledschendlich Counter
     url: https://letschendlich.website
   - name: Bitwarden

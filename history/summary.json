@@ -80,18 +80,20 @@
     "url": "https://backup-mail.fampopprol.me",
     "icon": "https://icons.duckduckgo.com/ip3/backup-mail.fampopprol.me.ico",
     "slug": "mailcow-new-backup-server",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 868,
     "timeDay": 868,
     "timeWeek": 868,
     "timeMonth": 868,
     "timeYear": 868,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-23": 0
+    }
   },
   {
     "name": "Ledschendlich Counter",

@@ -80,19 +80,19 @@
     "url": "https://backup-mail.fampopprol.me",
     "icon": "https://icons.duckduckgo.com/ip3/backup-mail.fampopprol.me.ico",
     "slug": "mailcow-new-backup-server",
-    "status": "down",
-    "uptime": "92.13%",
-    "uptimeDay": "91.67%",
-    "uptimeWeek": "92.13%",
-    "uptimeMonth": "92.13%",
-    "uptimeYear": "92.13%",
-    "time": 863,
-    "timeDay": 897,
-    "timeWeek": 863,
-    "timeMonth": 863,
-    "timeYear": 863,
+    "status": "up",
+    "uptime": "91.06%",
+    "uptimeDay": "90.42%",
+    "uptimeWeek": "91.06%",
+    "uptimeMonth": "91.06%",
+    "uptimeYear": "91.06%",
+    "time": 866,
+    "timeDay": 892,
+    "timeWeek": 866,
+    "timeMonth": 866,
+    "timeYear": 866,
     "dailyMinutesDown": {
-      "2025-08-23": 120
+      "2025-08-23": 138
     }
   },
   {

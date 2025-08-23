@@ -1,7 +1,7 @@
 url: https://bitwarden.fampopprol.me
-status: up
-code: 200
-responseTime: 558
-lastUpdated: 2025-08-22T23:13:33.773Z
+status: down
+code: 400
+responseTime: 310
+lastUpdated: 2025-08-23T22:43:14.309Z
 startTime: 2025-03-18T21:53:42.960Z
 generator: Upptime <https://github.com/upptime/upptime>

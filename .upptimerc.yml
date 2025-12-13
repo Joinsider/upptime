@@ -15,15 +15,13 @@ sites:
   - name: Mailcow new Backup Server
     url: https://backup-mail.fampopprol.me
   - name: Ledschendlich Counter
-    url: https://letschendlich.website
+    url: https://letschendlich.joinside.de
   - name: Bitwarden
     url: https://bitwarden.fampopprol.me
     expectedStatusCodes:
      - 200
      - 201
      - 403
-  - name: UptimeKuma
-    url: https://uptime1.fampopprol.me
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

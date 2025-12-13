@@ -16,13 +16,7 @@ sites:
     url: https://backup-mail.fampopprol.me
   - name: Ledschendlich Counter
     url: https://letschendlich.joinside.de
-  - name: Bitwarden
-    url: https://bitwarden.fampopprol.me
-    expectedStatusCodes:
-     - 200
-     - 201
-     - 403
-
+    
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there

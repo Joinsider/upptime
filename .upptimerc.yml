@@ -16,6 +16,10 @@ sites:
     url: https://backup-mail.fampopprol.me
   - name: Ledschendlich Counter
     url: https://letschendlich.joinside.de
+  - name: New Counter
+    url: https://counter.joinside.de
+  - name: Uptime Monitor
+    url: https://uptime.joinside.de
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

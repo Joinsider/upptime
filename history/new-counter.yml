@@ -1,7 +1,7 @@
 url: https://counter.joinside.de
-status: down
-code: 403
-responseTime: 271
-lastUpdated: 2026-02-09T21:51:45.366Z
+status: up
+code: 200
+responseTime: 542
+lastUpdated: 2026-02-09T22:22:31.600Z
 startTime: 2026-02-01T09:38:10.397Z
 generator: Upptime <https://github.com/upptime/upptime>
